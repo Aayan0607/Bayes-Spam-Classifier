@@ -51,3 +51,477 @@ spam,An unclaimed estate belongs to you. Transfer the legal processing fee to th
 spam,Your card refund expires today. Send your PIN password and verification code to our payment agent immediately.
 spam,Make a cryptocurrency deposit now for guaranteed daily profits. Limited places remain and every investor receives huge cash returns.
 spam,You are the lucky winner of a free holiday. Pay a refundable insurance fee immediately to claim your exclusive prize.
+ham,Your order of 2 items from Bluebird Books has shipped. Estimated delivery Thursday. Track the parcel from the Orders page in your account.
+ham,Thanks for shopping with us! Order 40817 total $62.40 including $4.10 sales tax. A copy of this receipt is saved in your purchase history.
+ham,Out for delivery today: your package from Kaveri Home Store will arrive between 2 PM and 6 PM. No signature is required.
+ham,Delivered: your parcel was left at the front door at 11:42 AM. If something looks wrong you can report a problem from the order details page.
+ham,Your Swiggy order from Annapurna Mess was delivered. Bill total ₹286 paid via UPI. Rate your meal to help other diners.
+ham,Ride receipt for your trip on 28 Oct. Fare ₹214 charged to Paytm wallet. Pickup Koregaon Park and drop at Pune Station. Thanks for riding.
+ham,Your Uber trip receipt. Base fare $11.20 plus booking fee $2.15. Total charged to Mastercard ending 0932: $13.35.
+ham,"Payment of ₹1,499 to Jio Fiber for broadband plan was successful. Transaction ID T2610281533. Your plan is valid until 27 Nov 2026."
+ham,Your Airtel postpaid bill for October is ₹749. Due date 18 Nov 2026. Pay on the Airtel Thanks app or set up autopay to never miss a due date.
+ham,Gas bill reminder. Your Mahanagar Gas bill of ₹612 is due on 12 November. You can pay at the counter or through your bank's bill pay section.
+ham,"Water charges statement for the quarter July to September is now available. Amount payable ₹1,050. Please pay before the due date shown on the bill."
+ham,Thank you for paying your property tax for 2026-27. Receipt number PT/2026/88213 has been generated. Keep it for municipal records.
+ham,"GST invoice for your purchase at Croma. Invoice no. CRM-MH-55120 dated 30/10/2026. Taxable value ₹15,250 CGST ₹1,372.50 SGST ₹1,372.50."
+ham,"Tax invoice attached for your hosting plan renewal. Amount ₹3,540 inclusive of 18% GST. Our GSTIN is listed on the invoice for input credit."
+ham,Your ITR for assessment year 2026-27 has been successfully verified. The acknowledgement can be downloaded from the e-filing portal after login.
+ham,"Income tax refund of ₹4,320 has been credited to your bank account ending 7781 as per the processed return. No action is needed."
+ham,"Your mutual fund SIP of ₹5,000 in Parag Parikh Flexi Cap was processed on 05 Nov. Units will be allotted at the applicable NAV."
+ham,Consolidated account statement for October is attached. It lists all mutual fund transactions held under your PAN. The PDF is password protected with your PAN and date of birth.
+ham,Demat holding statement for the month is now available. There were no transactions in your account during this period.
+ham,Contract note for trades executed on 31 Oct 2026 is attached. Please review the brokerage and charges and write to us within 24 hours if there is any discrepancy.
+ham,"Dear customer your credit card statement for the period 03 Oct to 02 Nov is ready. Total amount due ₹18,420. Minimum due ₹920. Payment due date 22 Nov."
+ham,"Your card ending 1104 was used for ₹2,399 at DMart Ready on 01 Nov 2026 at 19:12. If this was not you please block the card from the official app."
+ham,"Alert: Rs 450.00 spent on your ICICI Bank Credit Card XX3301 at ZOMATO on 02-Nov-26. Avl limit Rs 61,212.40."
+ham,"Rs 38,500.00 credited to A/c XX9921 on 31-10-26 by NEFT from ACME SOFTWARE PVT LTD. Avl Bal Rs 41,870.15."
+ham,UPI payment of ₹120 to Ramesh Tea Stall successful. UPI Ref No 630212447781. Check your balance in the app.
+ham,"You received ₹2,000 from Priya Nair via UPI. The money has been added to your linked account ending 4410."
+ham,Your UPI collect request of ₹350 to Arjun was declined by the payer. No money was debited.
+ham,"Monthly UPI statement: you made 47 UPI payments totalling ₹13,982 in October. The detailed passbook is available in the app under History."
+ham,"Your salary for October 2026 has been processed. Gross ₹82,000 deductions ₹9,640 net pay ₹72,360. The payslip is available on the employee portal."
+ham,Payslip for the month of October is attached. The document is password protected using your employee ID followed by your birth year.
+ham,Form 16 for the financial year 2025-26 is now available for download from the HR portal under Tax Documents.
+ham,"Your reimbursement claim REIM-2241 for client visit travel of ₹6,480 has been approved by your manager and will be paid with the November payroll."
+ham,Expense report rejected: the hotel bill attached to claim 3317 is missing the GST number. Please upload a corrected bill and resubmit.
+ham,"Your EMI of ₹8,915 for home loan account 66120044 will be debited on 05 Nov 2026. Please maintain sufficient balance to avoid bounce charges."
+ham,"EMI paid: ₹3,250 towards your Bajaj consumer durable loan for the refrigerator. Remaining EMIs: 4. Thank you for paying on time."
+ham,Your personal loan statement for the year is attached. It shows interest paid and principal repaid which may be useful for your records.
+ham,Loan closure confirmation. Your vehicle loan has been fully repaid. The NOC and Form 35 will be sent to your registered address within 15 working days.
+ham,Your car insurance policy expires on 20 November. Renew online from your insurer's website or app to keep continuous cover and retain your no claim bonus.
+ham,"Premium receipt: we have received ₹24,180 towards your health insurance policy HL-55120. The policy is renewed until 14 Nov 2027."
+ham,"Your claim for hospitalisation at City Care Hospital has been settled. ₹42,600 was paid directly to the hospital under cashless settlement."
+ham,Appointment reminder: Dr. Anjali Rao Dental Clinic tomorrow 5:30 PM. Please arrive 10 minutes early. Call the front desk if you need to reschedule.
+ham,Your appointment at Apollo Clinic Indiranagar is confirmed for Saturday 8 Nov at 9:00 AM with Dr. S. Kulkarni (General Physician). Fasting is not required.
+ham,Reminder: your annual eye examination is scheduled for next Tuesday at 3:15 PM. Bring your current glasses and a list of medications.
+ham,Hi Sam this is a reminder of your physiotherapy session on Wednesday at 4 PM. Reply YES to confirm or call us to change the time.
+ham,Your haircut booking at Looks Salon is confirmed for Sunday 11:00 AM with stylist Neha. Cancel up to 2 hours before at no charge.
+ham,"Vehicle service reminder: your Honda City is due for its 20,000 km periodic service. Book a slot at your nearest authorised service centre."
+ham,"Your car service is complete. Invoice total ₹6,842 including parts and labour. The vehicle is ready for pickup until 7 PM today."
+ham,Passport Seva appointment confirmed for 14/11/2026 at 10:15 at PSK Pune. Carry the original documents listed in the appointment receipt.
+ham,Your visa appointment at the application centre is on 20 November at 08:45. Please bring your passport printed confirmation and photographs.
+ham,Vaccination reminder: your child's booster dose is due this week. Please visit the paediatric clinic between 10 AM and 1 PM on any weekday.
+ham,Lab report ready: your blood test results from 29 Oct are now available in the patient portal. Please discuss the results with your doctor.
+ham,Pharmacy receipt. Your prescription order of 3 items totalling ₹842 was paid by card. Please store the medicines as instructed on the labels.
+ham,"College fee notice: second semester tuition fees of ₹58,000 are payable by 30 November. Students with pending dues will not receive hall tickets."
+ham,"Hostel fee receipt: payment of ₹32,500 received for room allotment in Block C for the academic year 2026-27."
+ham,"The examination fee for the December session is ₹1,200 per subject. Pay through the student portal before 15 November. Late fee applies after that."
+ham,Library notice: you have 2 overdue books. A fine of ₹10 per day is being charged. Please return them at the circulation desk.
+ham,Your child's school fee for term 2 has been received. Receipt no. 2026/T2/0419. Thank you for the timely payment.
+ham,"Bus fee reminder for the school transport route 7. The quarterly amount of ₹4,800 is due by 10 November."
+ham,"Society maintenance bill for November is ₹3,200. Please pay to the society account by the 10th. Late payment attracts interest as per bylaws."
+ham,"Rent receipt: received ₹22,000 from Mr. Karan Mehta for flat 304 Sai Residency for the month of November 2026. Signed by the landlord."
+ham,Hi the rent for this month has reached my account. Thanks for paying early. I will send the receipt for your HRA claim by the weekend.
+ham,"Your security deposit refund of $1,150 has been processed after the move-out inspection. Deductions for cleaning are itemised in the attached statement."
+ham,"Thank you for your donation of ₹2,500 to Akshaya Foundation. This receipt is eligible for deduction under Section 80G. Our PAN and registration number are printed on it."
+ham,"Your monthly gym membership of ₹1,800 was renewed on 1 Nov. Your access card remains active until 30 Nov."
+ham,Your Spotify Premium plan renews on 15 November for ₹119. You can change or cancel your plan any time from your account page.
+ham,We could not process your subscription renewal because your card was declined. Please update your payment details in the app within 7 days to avoid interruption.
+ham,Your free trial ends in 3 days. After that you will be charged $9.99 per month unless you cancel from your account settings.
+ham,"Your annual Microsoft 365 Family subscription was renewed. Charged ₹6,199 to your saved card. A receipt is available in your Microsoft account order history."
+ham,Domain renewal notice: example-studio.in expires on 12 Dec 2026. Auto-renew is on and your card will be charged ₹899 seven days before expiry.
+ham,Your cloud storage plan was downgraded to the free tier because the payment failed. Your files are safe but you cannot add new files until you upgrade.
+ham,"Refund initiated for returned item Wireless Mouse. ₹1,049 will be credited to your original payment method within 5 to 7 business days."
+ham,Your return has been picked up. Once the item passes the quality check your refund will be processed to your bank account.
+ham,"We are sorry your order was cancelled because the seller could not fulfil it. The full amount of ₹2,780 has been refunded to your UPI account."
+ham,"Your IRCTC ticket cancellation is complete. Refund of ₹1,145 after cancellation charges will be credited to the original payment mode in 3-4 working days."
+ham,E-ticket booked: PNR 4512367890. Train 12123 Deccan Queen. Pune to Mumbai CSMT on 09 Nov departing 07:15. Coach C2 seat 34.
+ham,Your flight booking is confirmed. Booking reference K7QZPM. Bengaluru to Delhi on 21 Nov at 06:40. Web check-in opens 48 hours before departure.
+ham,Flight delay notice: your flight 6E 2134 is now expected to depart at 09:20 instead of 08:05. We apologise for the inconvenience.
+ham,Hotel reservation confirmed at Lakeview Residency for 2 nights from 14 Nov. Pay at hotel. Free cancellation until 12 Nov 6 PM.
+ham,Movie tickets booked: 2 seats for the 7:30 PM show at PVR Phoenix on Saturday. Booking ID WK8812. Show the QR code at the entrance.
+ham,Your bus ticket from Hyderabad to Vijayawada is confirmed for 03 Nov 22:30. Boarding point Ameerpet. Seat numbers 21 and 22.
+ham,"Your FASTag was recharged with ₹1,000. Updated balance ₹1,312. Toll deductions will appear in your FASTag statement."
+ham,Toll transaction: ₹125 deducted from your FASTag for vehicle MH12AB3456 at Khalapur toll plaza on 31-10-2026.
+ham,Your new debit card has been dispatched by speed post. You will receive it within 7 working days. Activate it at any ATM using your existing PIN.
+ham,Your login from a new device (Chrome on Windows) was detected on 02 Nov at 21:04. If this was you no action is needed.
+ham,Your password was changed successfully. If you did not make this change please contact support using the number on the back of your card.
+ham,"Your OTP to complete the payment of ₹1,299 at Myntra is 731904. It is valid for 5 minutes. The bank never asks for your OTP."
+ham,Use 228471 as your verification code to sign in. This code expires in 10 minutes. If you did not request it you can ignore this message.
+ham,Two-step verification was turned on for your account. You will now need a code from your phone when you sign in on a new device.
+ham,Your registered mobile number was updated for account ending 5521 at the branch on 30 Oct. If you did not request this please visit the branch.
+ham,Your KYC details were updated successfully at our branch on 28 Oct. No further documents are required from you.
+ham,Your Aadhaar was successfully linked to your PAN. The status can be checked on the income tax e-filing portal.
+ham,"Your cheque no. 004512 for ₹15,000 has been cleared and debited from your account on 01 Nov 2026."
+ham,"Fixed deposit of ₹1,00,000 booked for 12 months at 7.10% per annum. Maturity date 02 Nov 2027. The deposit advice is attached."
+ham,"Your recurring deposit instalment of ₹2,000 was debited today. 9 of 24 instalments have been paid."
+ham,Interest certificate for your savings account for the financial year is available under Statements in net banking.
+ham,"Your standing instruction to transfer ₹5,000 to your PPF account on the 3rd of every month is active."
+ham,"Annual account statement for your NPS account is now available. Contributions for the year totalled ₹50,000."
+ham,"Your electricity bill payment of ₹2,214 to MSEDCL for consumer no. 170011234567 was successful. Receipt will be reflected in the next bill."
+ham,"TATA Power bill for October 2026: units consumed 182. Amount due ₹1,563.40. Due date 15-11-2026. Pay online to receive a 1% prompt payment discount."
+ham,Your DTH recharge of ₹399 was successful. Your current pack is active until 01 Dec 2026.
+ham,Your prepaid mobile recharge of ₹299 for 28 days was successful. Data balance and validity can be checked in the app.
+ham,Invoice 2026-114 for logo design and brand guidelines. Amount due $850.00. Payment terms net 15. Bank details are on page 2 of the invoice.
+ham,"Hi Rahul please find attached the invoice for the October consulting hours (32 hours at ₹2,500 per hour). Let me know if anything needs correction."
+ham,Payment received for invoice 2026-109. Thank you! We have marked it as paid in our system and attached the paid receipt.
+ham,Your quarterly invoice from CloudDesk is ready. 12 seats on the Team plan for $144.00. The invoice is available in the billing section of the admin console.
+ham,Reminder: invoice 7781 for office supplies is 10 days overdue. Please arrange payment or let us know if there is a problem with the invoice.
+ham,We received your purchase order PO-5521 and have scheduled delivery for 12 November. The invoice will follow with the delivery challan.
+ham,"Your vendor payment of ₹1,24,000 against invoice VND-221 has been released by the finance team. UTR number HDFCR52026110211."
+ham,"Credit note CN-018 for ₹2,360 has been issued against invoice 7704 for the returned items. It will be adjusted in your next invoice."
+ham,"Statement of account from Shree Traders as of 31 Oct. Opening balance ₹48,000 invoices ₹22,500 payments ₹40,000 closing balance ₹30,500."
+ham,Your Amazon Pay balance was used for this order. ₹540 was deducted and ₹62 remains in your Amazon Pay balance.
+ham,Cashback of ₹25 has been credited to your wallet for your electricity bill payment last week.
+ham,Reward points statement: you earned 412 points on your card in October. Points can be redeemed only from the bank's official rewards portal.
+ham,"Your Flipkart order of a pressure cooker is arriving today. Our delivery partner will call before arriving. Keep ₹1,890 ready for cash on delivery."
+ham,Your parcel is held at the post office because no one was available at the address. Collect it within 7 days with an ID proof.
+ham,Shipment delayed: due to heavy rain in the region your package will arrive one day later than expected. We apologise for the delay.
+ham,Your grocery order is packed and will be delivered in the 8 to 10 AM slot tomorrow. A few items were out of stock and have not been charged.
+ham,Your BigBasket refund of ₹86 for the missing item has been added to your BB wallet.
+ham,Your Dunzo payment of ₹178 for a pickup and drop task was successful.
+ham,Thanks for your order at Third Wave Coffee. ₹340 paid by card. Earn a free coffee after 4 more visits.
+ham,"Your fuel purchase of ₹2,000 at HP petrol pump Baner has been paid using your credit card. 20 reward points earned."
+ham,Your electricity connection application has been approved. The new meter will be installed within 7 working days. No payment is due at installation.
+ham,"Your income tax e-payment of ₹12,400 under challan 280 was successful. CIN 05012026110200123. The challan counterfoil is available for download."
+ham,GSTR-3B for October has been filed successfully for GSTIN 27ABCDE1234F1Z5. ARN generated AA271026012345X.
+ham,Professional tax of ₹200 has been deducted from your November salary as per state rules.
+ham,Advance tax reminder: the third instalment is due on 15 December. Taxpayers can pay through the e-pay tax facility on the income tax portal.
+ham,Your PF passbook has been updated with the employer contribution for October. Check details on the EPFO member portal.
+ham,Hello this is the accounts office of St. Xavier's College. Your fee concession request has been approved and the revised fee statement is attached.
+ham,"Scholarship disbursement: ₹25,000 has been credited to your bank account under the state merit scholarship for 2026-27."
+ham,Your course registration for the winter term is confirmed. Fees will appear on your student account statement next week.
+ham,Thank you for registering for the Python workshop on 15 Nov. Your payment of ₹500 was received and your seat is confirmed.
+ham,Your conference registration invoice is attached. Early bird fee $250 paid on 20 Oct. Please bring your ID to collect the badge.
+ham,Your parking permit for Lot B has been renewed until 31 December. The ₹600 fee was charged to your staff account.
+ham,Your traffic e-challan for no parking issued on 12 Oct has been paid. Amount ₹500. Challan status is now closed on the official portal.
+ham,Your table for 4 at Barbeque Nation is booked for Friday 8 PM. Booking ID BN55120. Please arrive on time to hold the reservation.
+ham,Hi just a reminder that our dentist appointment for Mira is on Monday at 4. I have already paid the deposit so no need to bring the card.
+ham,Mom paid the electricity bill this morning. I have forwarded you the receipt so you can add it to the expense sheet.
+ham,"Hey I transferred ₹1,250 for my share of the dinner. Let me know if it shows up in your account."
+ham,"Your home loan interest certificate for FY 2025-26 shows interest paid of ₹1,84,220. Use it for your tax declaration."
+ham,"Your credit limit increase request has been approved. New credit limit ₹2,50,000 effective immediately. No action is needed."
+ham,"Your request to convert the purchase of ₹24,000 into 6 EMIs has been processed. The first EMI will appear in your next statement."
+ham,Auto-debit set up successfully for your credit card. The total amount due will be debited from your savings account on each due date.
+ham,"Your ATM withdrawal of ₹5,000 at SBI ATM MG Road on 01-Nov-26 was successful. Available balance ₹18,230."
+ham,"Your cash deposit of ₹10,000 at the branch has been credited to account ending 3302."
+ham,Balance alert: your savings account balance is below the minimum required average balance. Please maintain the balance to avoid charges.
+ham,"Your locker rent of ₹3,540 for the year has been debited from your account. The receipt is available at the branch."
+ham,"Your demand draft request for ₹45,000 in favour of XYZ University is ready for collection at the branch."
+ham,"We have received your complaint about a failed ATM transaction. The amount of ₹2,000 will be reversed to your account within 5 working days."
+ham,"Dispute update: the merchant has accepted your chargeback claim. ₹3,899 has been permanently credited to your card account."
+ham,Your insurance claim documents have been received. Our surveyor will contact you within 2 working days to inspect the vehicle.
+ham,Policy document for your term life insurance is attached. Please verify the nominee details and contact us within the 15-day free look period for any change.
+ham,Your child's health checkup report from the school medical camp is attached. No follow-up is required.
+ham,Your pet's vaccination is due next week. Book an appointment at Happy Paws Veterinary Clinic or walk in during clinic hours.
+ham,"Your package from the US has cleared customs. Import duty of ₹1,180 was paid at checkout so nothing is due on delivery."
+ham,Your order has been cancelled at your request. Since payment was by cash on delivery no refund is required.
+ham,Price drop refund: the price of an item in your recent order dropped within 7 days. We have credited ₹150 to your store credit.
+ham,"Your gift card worth ₹1,000 has been added to your account balance and will be applied automatically at checkout."
+ham,The warranty for your washing machine has been registered. Keep the invoice for service requests within the warranty period.
+ham,Your service request for the air conditioner has been scheduled. A technician will visit on 4 Nov between 10 AM and 1 PM. Visit charge ₹299.
+ham,"Your annual maintenance contract for the water purifier is due for renewal on 30 November. Renew at ₹1,999 to continue free filter changes."
+ham,Your quotation for the office furniture order is attached. Prices are valid for 15 days and include delivery and installation.
+ham,"Purchase receipt from IKEA Hyderabad. 6 items total ₹8,450 paid by debit card. Returns accepted within 365 days with this receipt."
+ham,The payment link you requested for your hostel booking has expired. You can generate a new link from the booking page whenever you are ready.
+ham,Your bank statement for October 2026 is attached as a PDF. Open it using the first four letters of your name and your date of birth.
+ham,Your e-statement registration has been successful. Monthly statements will now be sent to this email address instead of by post.
+ham,Your electricity meter reading was recorded as 4518 units on 29 Oct. The bill will be generated within 3 days.
+ham,Your solar subsidy application has been forwarded to the distribution company for inspection. You will be informed of the inspection date.
+ham,Your LPG cylinder booking number 112233 is confirmed. Delivery expected within 2 days. Pay ₹905 at delivery or online in the app.
+ham,Your LPG subsidy of ₹47.20 has been credited to your bank account linked with Aadhaar.
+ham,"Your Ola Money postpaid bill of ₹1,142 is due on 7 November. Pay from the app to keep using postpaid rides."
+ham,Thank you for paying your Google Workspace bill. Amount $36.00 for 6 users. View your invoices in the Admin console under Billing.
+ham,Your AWS invoice for October is available. Total charges $18.73. You can view the detailed breakdown in the Billing and Cost Management console.
+ham,Your App Store purchase receipt: 1 month of iCloud+ 200 GB for ₹219. Billed to your Apple account.
+ham,Payment confirmation for your Coursera specialization. $49 charged for this month. Your access continues until you cancel.
+ham,Your LinkedIn Premium free trial has ended and you have not been charged. You can restart Premium any time.
+ham,Your Zoom Pro subscription will automatically renew on 21 November for $149.90 per year.
+ham,Your Adobe Creative Cloud payment failed. We will retry in 3 days. Update your payment method in your Adobe account to avoid interruption.
+ham,Electricity outage notice: power will be shut down in your area on 6 November from 10 AM to 2 PM for maintenance work.
+ham,Water supply will be interrupted on Sunday due to pipeline repair work. Please store water in advance. We regret the inconvenience.
+ham,Your complaint about the broadband outage has been resolved. A rebate of ₹50 will be adjusted in your next bill.
+ham,Your new SIM card has been activated. Your number will start working within 2 hours.
+ham,Your number port request has been completed. Welcome to your new network. Your first bill will be generated on the 5th.
+ham,"Hi Ankit the plumber's invoice came to ₹1,350. I paid it from the house fund and attached a photo of the bill."
+ham,Reminder: the team lunch contribution is ₹300 per person. Please pay Divya by Friday via UPI.
+ham,Your Kotak 811 account statement for 01 Oct 2026 to 31 Oct 2026 is attached.
+ham,Your Splitwise friend Rohan settled up ₹640 with you for the weekend trip.
+ham,Payment received for order 5521 at our Etsy shop. We will ship your custom mug within 3 business days. Thank you for supporting a small business.
+ham,Your PayPal payment of $24.99 to Humble Bundle was completed. It may take a few moments for this transaction to appear in your account.
+ham,You sent $40.00 USD to Maria Lopez. This payment will appear as completed in your activity.
+ham,Receipt for your Venmo payment: you paid Jordan $18.50 for pizza. View it in your transaction history.
+ham,"Your Stripe payout of $1,284.50 is on its way to your bank account ending 6612. It should arrive within 2 business days."
+ham,"Weekly earnings statement from Rapido: you completed 42 rides and earned ₹6,820 this week. Payout will be made on Monday."
+ham,"Your Zerodha fund withdrawal request of ₹20,000 has been processed and will reach your bank by end of day."
+ham,"Your annual Amazon Prime membership was renewed for ₹1,499. Thank you for being a member."
+ham,"Monthly statement from Chase: your statement balance is $1,204.18 and your minimum payment due is $35.00 by November 23."
+ham,"Bank of America alert: a direct deposit of $2,415.00 was posted to your checking account ending 4410."
+ham,Your Capital One payment of $250.00 is scheduled for November 12 from your checking account.
+ham,Wells Fargo: your monthly account fee of $10 was waived because you met the minimum daily balance requirement.
+ham,Your Comcast Xfinity bill is ready. Amount due $89.99 by November 19. Enrolled in automatic payments.
+ham,PG&E: your energy statement is ready to view. Amount due $112.46 due on 11/20/2026.
+ham,Your Verizon bill for this month is $65.00 and will be paid automatically on Nov 14 using your saved bank account.
+ham,Reminder from Greenfield Pediatrics: Ella has a well-child visit on Thursday 11/6 at 2:20 PM. Please bring insurance card.
+ham,Your prescription is ready for pickup at CVS Pharmacy on Main St. Copay $10.00. Pickup within 7 days.
+ham,Your DMV appointment for license renewal is confirmed for 11/18/2026 at 9:30 AM. Bring proof of residency and your current license.
+ham,Your library hold for The Overstory is ready. Pick it up at the Central Branch by November 9.
+ham,"Your home insurance renewal offer is attached. Premium for the coming year is $1,148 which is 4% higher than last year due to rebuilding costs."
+ham,"Payroll notice: your direct deposit for the pay period ending 10/31 was $2,186.34. View the pay stub in Workday."
+ham,Your W-2 for tax year 2025 is now available in the employee self-service portal.
+ham,"Your rent payment of $1,650 for November was received through the resident portal. Thank you!"
+ham,Your landlord has requested a payment of $75 for the October water bill. Review it in the resident portal under Charges.
+ham,Your student account shows a balance of $0.00 after the financial aid disbursement. No payment is due for this term.
+ham,"Tuition payment plan reminder: installment 3 of 4 ($1,120) is due on November 15."
+ham,"Your utility deposit of ₹2,000 will be refunded with interest in your final bill when the connection is closed."
+ham,Your request for a duplicate electricity bill has been processed. The PDF is attached.
+ham,Thank you for contacting customer care. Your ticket 4412 about a double charge has been resolved and ₹799 was reversed to your card.
+ham,"Your gold loan of ₹60,000 is due for renewal on 20 November. Please visit the branch with the pledge receipt."
+ham,"Your chit fund instalment of ₹5,000 for group A12 is due on the 10th. Please pay at the branch office or via bank transfer."
+ham,"Your Paytm postpaid statement for October is generated. Total due ₹2,310 on 07 Nov. Pay via the Paytm app."
+ham,Your PhonePe transaction of ₹699 for the Netflix subscription was successful.
+ham,"Your Google Pay payment to Indian Oil of ₹1,500 was successful. Transaction ID CICAgOD12345."
+ham,The amount of ₹230 you sent to Kiran via UPI has been reversed because the beneficiary bank was unavailable.
+ham,"Your NACH mandate for monthly SIP of ₹3,000 has been successfully registered with your bank."
+ham,Your mandate for auto-debit of ₹149 per month for Disney+ Hotstar has been created. You can pause or revoke it from your UPI app.
+ham,Reminder: the monthly autopay of ₹499 for your YouTube Premium plan will be executed on 06 Nov.
+ham,Your CIBIL score report is ready. Your score is 774. Log in to view the detailed credit report.
+ham,Your income tax return processing is complete. No demand or refund has been determined under section 143(1).
+ham,Your passport has been dispatched by Speed Post. Tracking number EM123456789IN.
+ham,Your driving licence renewal application has been approved. The smart card will be posted to your address.
+ham,Hello parents the annual day function contribution of ₹500 per student is to be paid to the class teacher by Friday.
+ham,Your PTA membership fee of ₹200 has been received. Thank you for supporting the school.
+ham,"Dear student your hostel mess bill for October is ₹3,450. Please clear it before 10 November at the accounts counter."
+ham,"Your placement cell registration fee of ₹1,000 has been received by the training and placement office."
+ham,Notice from the accounts section: the last date for fee payment without fine has been extended to 20 November.
+ham,Your convocation registration is complete. The degree certificate fee of ₹750 has been received.
+ham,"Your coaching institute fee instalment of ₹15,000 for the JEE batch is due on 10 November."
+ham,"Your dental treatment estimate for root canal and crown is ₹14,500. Payment can be made in two parts at each visit."
+ham,Your health checkup package booking is confirmed for Sunday 7 AM. Please fast for 10 to 12 hours before the test.
+ham,Teleconsultation booked with Dr. Rao on 05 Nov at 6:30 PM. Consultation fee ₹400 paid. You will receive a video link in the app 10 minutes before.
+ham,"Your hospital bill of ₹18,240 has been settled. The discharge summary and final bill are attached."
+ham,Blood donation camp reminder: you registered to donate on Saturday at the community hall. Please eat a light meal before coming.
+ham,"Your Urban Company booking for deep cleaning is confirmed for Saturday 10 AM. Amount ₹2,499 payable after service."
+ham,Your Urban Company payment of ₹649 for the AC service was successful. Rate your professional.
+ham,Your courier booking with DTDC is confirmed. Consignment number D1234567. Pickup will be done tomorrow between 11 AM and 3 PM.
+ham,Your Blue Dart shipment is out for delivery. The delivery associate will share an OTP at the door. Please share it only on receiving the parcel.
+ham,Your package delivery attempt failed because the address was incomplete. Update the landmark in your order details for a reattempt tomorrow.
+ham,Your society visitor pass for the delivery executive was approved by your family member.
+ham,Your Zomato Gold membership has been renewed for 3 months. ₹149 was charged to your saved card.
+ham,Your Ola ride receipt. Mini ride from Andheri to BKC. Fare ₹186 paid in cash.
+ham,Your metro card was recharged with ₹500. New balance ₹562.
+ham,Your parking at Phoenix Mall was paid using FASTag. Amount ₹80.
+ham,"Your temple donation of ₹1,001 has been received. Prasad will be sent to your address."
+ham,Your NGO monthly giving of ₹500 was received. Thank you for supporting children's education.
+ham,"Your crowdfunding contribution of ₹2,000 to the medical fundraiser was successful. The organiser will post updates on the page."
+ham,Your election ID card correction request has been accepted. Track the status on the voters service portal.
+ham,Your property registration appointment at the sub-registrar office is on 12 Nov at 11 AM. Carry the stamp duty receipt.
+ham,"Stamp duty payment of ₹48,000 has been received for document number 2026/7788."
+ham,Your vehicle PUC certificate expires on 18 November. Get it renewed at an authorised PUC centre.
+ham,"Your two-wheeler insurance has been renewed. Premium ₹1,240. Policy copy attached."
+ham,Your bike service booking is confirmed for Tuesday 9 AM at Hero Service Centre. Estimated cost ₹850.
+ham,"Your laptop repair is complete. Charges ₹2,200 for keyboard replacement. Pay at the counter while collecting."
+ham,Thanks for your payment. Your gas cylinder refill invoice is attached.
+ham,Your quarterly newsletter subscription has been renewed at no cost. You can unsubscribe at any time from the footer link.
+ham,Your order receipt is available at https://www.bluebirdbooks.com/orders/40817. Sign in to download a PDF copy.
+ham,Your statement can be viewed securely at https://netbanking.examplebank.co.in after logging in with your customer ID. We never send links asking for your password.
+ham,Track your shipment at https://www.delhivery.com/track using AWB 1490551233. Expected delivery 05 Nov.
+ham,Your appointment details and clinic directions are at https://clinic.example.org/appointments. Please do not reply to this automated email.
+ham,Your receipt for the Coldplay concert tickets is attached. Order ID BMS-77120. Gates open at 4 PM. Carry a valid photo ID.
+ham,The quarterly HOA dues of $240 are now posted to your account. Pay through the community portal by December 1.
+ham,Your auto insurance payment of $132.50 was received. Your policy remains active through 12/14/2026.
+ham,Your Lyft ride receipt: $17.84 charged to Visa ending 7712. Tip your driver within 72 hours.
+ham,Your Instacart order from Safeway was delivered. Final total $86.12 after a $4.18 adjustment for replaced items.
+ham,DoorDash receipt: your order from Chipotle totalled $21.47 including delivery fee and tip.
+ham,Your Target order is ready for pickup at the store. Bring your order number 912201 to the guest services desk.
+ham,Your Best Buy order has shipped. Track your package from the order status page. Expected arrival Friday.
+ham,Your Costco membership renewal of $65 was charged to your card on file.
+ham,Your dental cleaning is booked for 11/21 at 8:00 AM with Dr. Nguyen. Text C to confirm or R to reschedule.
+ham,Your veterinarian appointment for Max is tomorrow at 10:30. Please bring his vaccination records.
+ham,"Your property tax installment of $1,836.40 was received by the county treasurer on 10/31/2026."
+ham,Your IRS payment of $450.00 has been scheduled for 11/15/2026. Save the EFT acknowledgement number for your records.
+ham,Your employer has posted your benefits enrollment confirmation for 2027. Review the elections in the HR portal before December 5.
+ham,Your FSA claim for $120.00 has been approved and will be reimbursed by direct deposit.
+ham,"Your electricity bill autopay of ₹1,214 will be processed on 08 Nov from your HDFC account ending 4411."
+ham,Your BSNL landline bill for October is ₹472. Pay online before 20 Nov to avoid disconnection of outgoing calls.
+ham,Your Tata Play account balance is low. Recharge before 06 Nov to keep watching. Current pack price ₹350 per month.
+ham,Your hostel room cleaning schedule and the maintenance charge of ₹300 for this month are listed in the notice board circular attached.
+ham,Your MSRTC bus pass renewal for Pune to Satara has been processed. Pass valid until 30 Nov.
+ham,Your semester result is published. No fee is pending in your student account.
+ham,"Your exam form has been submitted. The receipt for the fee of ₹1,450 is attached. Keep it until results are declared."
+ham,Your college ID card replacement fee of ₹150 was received. Collect the new card from the admin office after 3 days.
+ham,"Thank you for your purchase at Decathlon. Total ₹2,899 paid by UPI. Your bill has been sent by SMS and email."
+ham,"Your Nykaa order has been packed. Total ₹1,124 paid online. We will share the tracking link once it ships."
+ham,Your Meesho order has been delivered. If you want to return it the return window closes on 10 Nov.
+ham,Your Zepto order was delivered in 9 minutes. Bill ₹432 paid via UPI. Thank you for ordering.
+ham,Your Rapido bike taxi fare ₹62 has been paid. Rate your captain.
+ham,"Your Tanishq gold savings scheme instalment of ₹5,000 for month 7 has been received."
+ham,"Your mutual fund redemption of ₹40,000 has been credited to your bank account ending 4401."
+ham,"Your ELSS investment proof for ₹50,000 has been submitted to payroll for the tax declaration."
+ham,Your HRA rent receipts have been verified by the payroll team. Tax will be recalculated in the next salary.
+ham,"Your bonus of ₹25,000 for the Diwali festival has been credited along with the October salary."
+ham,Your increment letter is available in the HR portal. The revised salary will be effective from 1 April.
+ham,"Your leave encashment of ₹18,400 has been processed with the final settlement."
+ham,Your full and final settlement has been completed. The relieving letter and settlement statement are attached.
+spam,Dear customer your SBI YONO account will be blocked today. Update your PAN card immediately by clicking http://sbi-yono-kyc.xyz/update to avoid suspension.
+spam,Your HDFC Bank KYC has expired. Your account will be frozen within 24 hours. Complete KYC now at bit.ly/hdfc-kyc-verify and enter your debit card details and OTP.
+spam,Dear Paytm user your KYC is pending and your wallet will be suspended. Call our KYC officer on 9832145670 and install the AnyDesk app to complete verification.
+spam,URGENT: your electricity connection will be disconnected tonight at 9:30 PM because your previous month bill was not updated. Contact electricity officer immediately on 8899001122.
+spam,"Dear consumer your power will be cut today as last month's bill of Rs 1,370 is pending. Pay now at http://mseb-billpay.in.net or call our officer."
+spam,Your Netflix account has been suspended because we could not validate your billing information. Update your payment details within 48 hours at netflix-billing-update.com to restore access.
+spam,Your Amazon account is on hold. An unusual purchase of $899.99 iPhone was placed. If you did not authorise it call our refund department at +1 888 410 2233 immediately.
+spam,PayPal: we noticed suspicious activity and limited your account. Confirm your identity and card number at paypal-resolution-center.net or your account will be closed permanently.
+spam,Apple ID locked for security reasons. Verify your account details at appleid-unlock-support.com within 12 hours or all your data will be deleted.
+spam,Your Microsoft 365 subscription payment was declined and your mailbox will be deleted. Re-enter your card information here to keep your emails: http://office365-billing.support
+spam,Your Norton Antivirus subscription has been auto-renewed for $399.99. If you want to cancel and receive a refund call our billing department at 1-855-210-4471 within 24 hours.
+spam,Invoice #GS-88231 Geek Squad Protection 3 Years $349.00 has been charged to your account. To dispute this charge and get a full refund call +1 (808) 555-0192.
+spam,McAfee Total Protection renewal successful. Amount debited $289.99. Not you? Call our cancellation helpline now to stop the payment and claim your refund.
+spam,PayPal invoice from Billing Department: Bitcoin purchase $599.00. If you did not make this purchase call 1-888-341-0055 to cancel. Do not reply to this email.
+spam,Attached is the overdue invoice for services rendered. Payment must be wired today to our new bank account as our old account is under audit. Please keep this confidential.
+spam,"Hi this is the CEO. I am in a meeting and need you to purchase 5 Google Play gift cards of ₹10,000 each for a client. Scratch the codes and send me photos urgently. Do not call."
+spam,"Please process an urgent wire transfer of $48,500 to the vendor account below. I am travelling and cannot talk. This is time sensitive and confidential."
+spam,"Congratulations! Your mobile number has won ₹25,00,000 in the KBC Lucky Draw 2026. To claim your prize contact Mr. Rana Pratap on WhatsApp and pay the registration fee of ₹12,500."
+spam,"You have been selected as the winner of the Jio lucky draw. Claim your prize of ₹50 lakh by paying GST charges of ₹18,500 to the account given below."
+spam,"Congratulations your email address has won 1,500,000 GBP in the UK National Lottery Online promotion. Send your full name address and phone number to the claims agent."
+spam,"Your Coca-Cola anniversary award of $850,000 is ready for release. Pay the courier and clearance fee of $350 to receive your cheque."
+spam,I am Barrister James Okoro the attorney to the late Mr. Williams who died in a car crash. He left a deposit of $10.5 million with no next of kin. I want to present you as the beneficiary.
+spam,Dear friend I am a widow suffering from cancer and I wish to donate my late husband's fund of $4.2 million to charity through you. Reply with your details.
+spam,I am a banker in Burkina Faso and I discovered an abandoned account of $18 million. I need a foreign partner to transfer the funds. You will receive 40% as your share.
+spam,Greetings from the United Nations compensation unit. You have been listed to receive a compensation payment of $2.5 million. Contact our paying bank with the activation fee.
+spam,"Income Tax Department: you are eligible for a tax refund of ₹15,490. Submit your bank account and ATM PIN at http://incometax-refund-gov.in.net to receive the refund."
+spam,HMRC: you are due a tax refund of £326.40. Complete the claim form at hmrc-refund-claim.co with your card details to receive the money within 3 days.
+spam,"IRS notice: you have an unclaimed tax refund of $1,280.56. Verify your SSN and bank login at irs-refund-portal.com to process the payment."
+spam,"Your refund of ₹4,999 for the cancelled order is pending. Scan the QR code sent on WhatsApp and enter your UPI PIN to receive the refund amount."
+spam,"Amazon refund team: we will refund ₹2,340 for your returned product. Please accept the collect request in your UPI app and enter your PIN to receive the money."
+spam,"Dear user you have received a cashback of ₹5,000 from PhonePe. Click the link and enter your UPI PIN to credit the money to your account."
+spam,"Your SBI reward points worth ₹7,850 will expire today. Redeem now at sbi-rewardz.co.in by entering your card number CVV and OTP."
+spam,"Dear customer your HDFC credit card reward points of 9,550 are expiring. Redeem them as cash by downloading the HDFC Rewards APK from this link."
+spam,India Post: your parcel could not be delivered due to an incomplete address. Update your address and pay a redelivery fee of ₹25 at indiapost-redeliver.in within 12 hours.
+spam,FedEx: a parcel in your name containing illegal items and drugs has been seized by Mumbai customs. Press 1 to talk to the customs officer or your Aadhaar will be blocked.
+spam,"DHL Express: your shipment is held at customs. Pay the import duty of ₹1,999 using the link below or the package will be returned to sender."
+spam,USPS: your package is on hold due to an unpaid shipping fee of $1.99. Update your payment at usps-redelivery-help.com within 24 hours.
+spam,"Dear candidate you are selected for a work from home data entry job with salary ₹45,000 per month. Pay a refundable registration fee of ₹2,500 to receive your joining kit."
+spam,"Earn ₹3,000 to ₹8,000 daily by liking YouTube videos. Join our Telegram group now. First task paid instantly. Deposit ₹1,000 to unlock premium tasks."
+spam,"Congratulations you are shortlisted for an airline ground staff job. Pay ₹9,800 for training and uniform charges to confirm your offer letter."
+spam,"Your pre-approved personal loan of ₹5,00,000 at 0% interest is ready. Pay the processing fee of ₹3,499 to get instant disbursal. No documents required."
+spam,"Instant loan approved without CIBIL check. Download the app and pay ₹1,500 insurance charge today to receive ₹2 lakh in your account within 10 minutes."
+spam,"Your credit card limit can be increased to ₹5,00,000 today only. Share the OTP sent to your phone with our executive to activate the upgrade."
+spam,"Invest ₹10,000 and earn ₹1,00,000 in 7 days with our AI crypto trading bot. 100% guaranteed returns. Limited slots. Join now."
+spam,Double your Bitcoin instantly! Send 0.1 BTC to the wallet address below and receive 0.2 BTC back within 30 minutes. Official giveaway.
+spam,Hello dear I saw your profile and I want to help you start forex trading. My mentor guarantees 30% profit weekly. Deposit through our platform today.
+spam,"I know your password and I recorded you through your webcam. Pay $1,500 in Bitcoin to the address below within 48 hours or I will send the video to all your contacts."
+spam,Your Aadhaar card has been misused for money laundering. A CBI officer will contact you. Do not disconnect the video call and transfer your balance to the RBI safe account for verification.
+spam,Your FASTag KYC is incomplete and it will be blacklisted today. Update KYC at fastag-kyc-update.in using your net banking login.
+spam,Your SIM card will be deactivated within 2 hours due to pending e-KYC. Call customer care on 7012345678 immediately to keep your number active.
+spam,"Your traffic challan of ₹2,000 is unpaid and a court case will be filed. Pay now at echallan-parivahan-gov.co to avoid licence suspension. Download the payment APK."
+spam,Your PAN card will be deactivated today. Link it to your bank account immediately by clicking the link and entering your net banking password.
+spam,"Dear customer your account has been debited ₹49,999. If not done by you click here to cancel the transaction and enter your card PIN."
+spam,Alert! Your bank account will be blocked due to a suspicious transaction. Share the OTP received to cancel the request. Customer care SBI.
+spam,"Your Google Pay account has received a gift voucher of ₹2,000. Scratch the card and approve the payment request to redeem."
+spam,"Your electricity subsidy of ₹3,500 under the PM scheme is approved. Pay a processing fee of ₹99 at the link to receive the subsidy."
+spam,Free laptop under the government student scheme 2026. Register now and pay ₹199 delivery charge at the link. Limited stock available.
+spam,Pradhan Mantri free recharge yojana: all Indian users get 3 months free recharge of ₹239. Click the link and share with 10 groups to activate.
+spam,Win an iPhone 17 for just ₹99! You are our lucky visitor today. Complete the survey and pay shipping to claim your phone.
+spam,"Your Flipkart order is eligible for a lucky draw prize of a Tata Nexon car. Pay ₹6,500 registration to the account below to claim your car."
+spam,"Congratulations you have won a Mahindra Thar in the Meesho lucky draw. Pay ₹8,900 GST and registration charges to receive the vehicle."
+spam,Your account with IRCTC has been suspended due to irregular bookings. Pay a penalty of ₹590 at irctc-account-support.in to reactivate it.
+spam,Your Instagram account will be deleted for copyright violation. Appeal within 24 hours by logging in at meta-copyright-appeal.com.
+spam,Your WhatsApp will expire today. Pay ₹99 to renew your account at the link or your chats will be deleted.
+spam,Your mailbox storage is full. Verify your email password at the link below to increase your storage quota and avoid losing messages.
+spam,Unusual sign-in activity detected on your Microsoft account. Click here and enter your password to secure your account immediately.
+spam,Your Coinbase wallet has been locked due to a compliance check. Verify your recovery phrase at coinbase-verify-wallet.com to unlock your funds.
+spam,Your SBI net banking will be blocked today. Please update your PAN number using this link http://sbi-netbanking-pan.co and enter your username and password.
+spam,ICICI Bank: your iMobile app needs a mandatory update. Download the new APK from icici-update.apk-download.in and log in to continue using services.
+spam,"Your LIC policy has matured and the bonus amount of ₹3,85,000 is ready. Pay an advance tax of ₹12,000 to get the cheque released."
+spam,"Your old insurance policy bonus of ₹6,72,000 is lying unclaimed. Contact our IRDA officer and deposit the processing charge to receive the amount."
+spam,Your gas connection will be disconnected tonight due to pending KYC. Call the gas officer on this number and share the OTP.
+spam,Your Airtel number has won a free 5G upgrade with 100GB data. Click the link and share your OTP to activate the offer.
+spam,Your Spotify payment failed and your account will be closed. Update your card details now at spotify-premium-billing.net.
+spam,Final notice: your Disney+ Hotstar membership is suspended. Pay ₹1 verification charge at the link to restore your plan.
+spam,Amazon Prime: your membership could not be renewed. Your account will be locked. Verify your card at amazon-prime-renewal.help.
+spam,Dear user we detected an unpaid toll of ₹525. Pay the toll and late fee immediately at fastag-dues-payment.com or your vehicle will be blacklisted.
+spam,Your Paytm account will be permanently closed. To reactivate share the 6 digit code sent to your mobile with our support agent.
+spam,We are from the bank head office. Your debit card is expiring and needs renewal. Please share the card number expiry date and CVV for the new card.
+spam,"Your EPF withdrawal of ₹1,45,000 is approved. Pay a TDS charge of ₹4,500 to the account below to receive the amount."
+spam,Your gratuity amount is pending at the labour office. Pay the release fee through UPI to process the payment today.
+spam,"Your student scholarship of ₹48,000 is approved. Share the OTP received on your mobile to transfer the scholarship into your account."
+spam,"Your child's school fee refund of ₹12,000 is approved. Please share your UPI PIN with the accountant to receive the refund."
+spam,"University exam result is withheld due to pending fees. Pay ₹2,999 at the link below immediately to release your result."
+spam,"NEET exam paper leak available. Pay ₹50,000 to get the confirmed question paper before the exam. 100% genuine."
+spam,"Your passport has been held due to verification issues. Pay a clearance fee of ₹3,200 to the officer's UPI ID to release it."
+spam,Your visa application is approved. Pay the visa stamping fee of $750 by Western Union to our embassy agent to receive your visa.
+spam,"Canada job offer with free visa and accommodation. Pay ₹85,000 for processing and medical charges to confirm your placement."
+spam,Hello I am your Facebook friend from London. I have sent you a gift parcel with gold and dollars. Pay the customs clearance fee to receive it.
+spam,I am a US army officer serving in Syria and I have $5.6 million in gold which I want to send to you for safe keeping. Kindly reply to proceed.
+spam,"Your package with 50,000 USD cash and jewellery is held at Delhi airport. Pay ₹35,000 customs duty to the officer to release it today."
+spam,"Your neighbour has sent you ₹5,000 by mistake. Please return the amount by approving the payment request sent to your UPI app."
+spam,"I have accidentally transferred ₹10,000 to your Google Pay. Please kindly send it back to this number. I need it for my hospital bill."
+spam,"Your OLX buyer has paid ₹15,000 for your sofa. Scan the QR code to receive the payment into your bank account."
+spam,I am an army officer and I want to buy your listed bike. I will pay in advance. Please scan this QR code and enter your PIN to receive the advance.
+spam,Earn money from home by rating hotels on Google. ₹150 per review. Invest in prepaid tasks to unlock higher commission.
+spam,"Your electricity bill shows an excess payment. Click the link to receive your refund of ₹1,450 and enter your card details."
+spam,Dear customer your Jio number will be blocked in 2 hours. Recharge your plan of ₹999 at the link to avoid disconnection.
+spam,"Your loan EMI bounced and recovery agents will visit your home today. Pay ₹4,999 penalty at this UPI ID to stop legal action."
+spam,"Final warning: your loan app account shows overdue ₹6,000. Pay immediately or we will send your photos to all your contacts."
+spam,Notice of legal action: an arrest warrant has been issued in your name for tax evasion. Pay the settlement amount immediately to avoid arrest.
+spam,Your bank account is linked to a money laundering case. The cyber cell requires you to transfer funds to a verification account for checking.
+spam,"Your credit card has been charged ₹68,000 for an international purchase. To block the transaction call our fraud team and share the OTP."
+spam,"Dear customer your new credit card is approved with a lifetime free offer. Pay ₹1,499 joining fee at the link to receive the card."
+spam,Pay ₹10 to verify your UPI and get ₹500 cashback instantly. Offer valid only for today.
+spam,Get a free iPhone by completing KYC on our app. Pay ₹199 refundable deposit to start.
+spam,Dear account holder your ATM card has been blocked. Call this number and share the 16 digit card number to unblock it.
+spam,"The Reserve Bank of India has approved a grant of ₹10 lakh in your name. Pay the RBI processing fee of ₹5,000 to receive it."
+spam,"Dear winner your name was picked in the WhatsApp international lucky draw. Prize £950,000. Contact the claims manager with your bank details."
+spam,"Your email has been selected for the Google anniversary cash prize of $500,000. Send your details and the transfer charge to the claims department."
+spam,"Congratulations you won an Amazon gift card worth ₹10,000. Click here to claim and enter your card details for verification."
+spam,"Your purchase of Bitcoin worth $1,999 is confirmed. If this was not you call our support immediately to request a refund and cancel the order."
+spam,"Your order of Apple MacBook Pro for ₹2,49,000 has been placed using your card. Call our customer care to cancel if you did not place this order."
+spam,Thanks for your purchase. Your PayPal account was charged $499.99 for Norton Lifelock. If you want to cancel call our helpline within 24 hours.
+spam,Your subscription to Geek Squad Total Tech Support has been renewed for $369.99. Kindly call us on the toll free number if you wish to cancel.
+spam,Your Amazon order of an iPhone 15 Pro is confirmed. To cancel the order and get a refund download the remote support app and call the number.
+spam,We have received your request to cancel the subscription. To complete the refund of $299 please install AnyDesk and log in to your online banking.
+spam,"Your PayPal refund of $499 was over credited by mistake as $4,999. Please return the extra amount through gift cards immediately."
+spam,"Customs department: your international courier contains a high value gift. Pay the clearance charge of ₹27,500 to the officer."
+spam,Your parcel from Shein is held by customs. A fee of £2.99 is required. Pay at royalmail-parcel-fee.com to schedule delivery.
+spam,Royal Mail: your parcel has a pending charge of £1.45. Your package will be returned if not paid today. Pay now at the link.
+spam,Evri: we missed you. Reschedule delivery and pay a small fee of £0.99 at evri-redelivery-payment.co.uk.
+spam,Your Aadhaar biometric is locked. Unlock it by paying ₹50 at the link and entering your Aadhaar OTP.
+spam,Your pension will be stopped this month. Update your life certificate at the link and share the OTP received.
+spam,"You have an unclaimed deposit of ₹2,35,000 in a dormant account. Pay ₹4,800 to the RBI officer to release the funds."
+spam,"Your electricity meter is faulty and a penalty of ₹12,000 has been charged. Pay ₹2,000 now to settle the case."
+spam,"Your mobile tower installation is approved on your rooftop. Pay ₹15,500 registration to receive ₹45,000 monthly rent and a ₹30 lakh advance."
+spam,"Get a franchise of a famous petrol pump. Pay ₹50,000 registration fee to the account below to get the dealership."
+spam,Your Apple ID was used to purchase an item worth $79.99. If you did not authorise this purchase click here to cancel and verify your identity.
+spam,Your DHL parcel is ready for delivery but the shipping cost of $3.00 was not paid. Click here to pay and confirm your delivery date.
+spam,Your Netflix payment failed. Update your billing details now at the secure link or your membership will be cancelled today.
+spam,Your Chase account has been temporarily locked due to suspicious activity. Log in at chase-secure-verify.com to confirm your identity.
+spam,Wells Fargo alert: your online access is suspended. Restore access at wellsfargo-unlock.info by verifying your social security number.
+spam,Bank of America: we have placed a hold on your account. Verify your information to remove the hold using the link below.
+spam,Your Venmo account was flagged. To avoid closure please confirm your banking credentials at venmo-support-verify.net.
+spam,Your Zelle payment of $750 is pending. To receive the money you must upgrade to a business account by sending $150.
+spam,Cash App: you have received $750. Claim your payment now by entering your card information on the next page.
+spam,Your package could not be delivered. Pay the $1.99 redelivery fee with your credit card at the link.
+spam,Your Social Security number has been suspended due to suspicious activity. Press 1 to speak with an officer and avoid legal action.
+spam,Your car's extended warranty is about to expire. Call now to renew your coverage before it is too late. Final notice.
+spam,Your student loan forgiveness application is approved. Pay a $299 processing fee to finalise forgiveness of your loan balance.
+spam,Your utility account is past due and service will be shut off in 30 minutes. Pay now by gift card or prepaid card through our agent.
+spam,Your Facebook ads account is suspended. Pay a reactivation fee of $49 at meta-business-support.com to restore advertising.
+spam,Your Microsoft computer is infected with a virus. Call the Windows support number immediately to protect your banking information.
+spam,Your Paytm KYC will expire in 24 hours. Click on the link http://paytm-kyc-online.in and complete your KYC to avoid account block.
+spam,"Congratulations dear customer you are eligible for a ₹10,000 Diwali bonus from your bank. Fill the form at the link with your card details."
+spam,"Your SBI account has been credited with ₹49,000. To activate the credit please share the OTP sent to your registered mobile."
+spam,Dear customer due to a mismatch your Aadhaar and PAN details your account is frozen. Visit the link and update KYC within 1 hour.
+spam,"Your request for loan cancellation has been received. Pay ₹2,000 cancellation fee to stop the EMI deduction."
+spam,Last day! Get your credit score fixed instantly. Pay ₹999 and we will remove all defaults from your CIBIL report.
+spam,"Your gold jewellery won in our anniversary lucky draw is ready. Pay ₹4,500 for insurance and delivery to receive it."
+spam,"Your car loan is approved at 2% interest. Pay ₹6,999 file charge immediately to get the loan amount credited today."
+spam,"Your house loan subsidy under the government housing scheme is sanctioned. Pay ₹2,500 documentation fee to receive ₹2.67 lakh."
+spam,Your invoice from Adobe Acrobat is attached. Open the attachment and enable macros to view the invoice amount of $849.
+spam,Please find attached the payment invoice. Download the zip file and enter password 1234 to view the amount due.
+spam,Payment remittance advice attached. Log in with your email password to view the document on the secure portal.
+spam,Your DocuSign document is waiting. Review and sign the payment authorisation by logging in with your Microsoft credentials at the link.
+spam,Dear vendor we have changed our bank account details. Please make all future invoice payments to the new account below immediately.
+spam,We noticed you paid your last invoice to the wrong account. Please pay the amount again to our updated account today to avoid late fees.
+spam,"Hello finance team please release payment of ₹4,85,000 for the attached invoice today itself. The director has approved it verbally."
+spam,Your package delivery fee of ₹49 is pending. Pay at the link or your parcel will be destroyed after 48 hours.
+spam,"Your account has been charged for an annual subscription of ₹8,999. To stop the auto debit call our toll free number and verify your card."
+spam,"Your trading account has made a profit of ₹2,40,000. Pay a withdrawal tax of ₹24,000 to transfer the profit to your bank."
+spam,"Join our VIP stock tips group and earn 500% returns. Pay ₹4,999 membership. Guaranteed profit or money back."
+spam,"Your mobile number has been selected for a government relief fund of ₹6,000. Click the link to register and pay ₹100 verification fee."
+spam,"You have a pending refund of ₹8,450 from your electricity provider. Download the refund app to receive it in your bank."
+spam,Dear customer your refund request is approved. Share the screen with our support team and type the amount in your UPI app to receive the refund.
+spam,Your cashback could not be credited because your account is not verified. Verify now by entering your net banking password.
+spam,"Your insurance claim of ₹1,25,000 is approved. Pay a processing fee of ₹3,750 to the agent to release the payment."
+spam,"Your credit card bill payment of ₹28,000 has failed. Pay again using this link to avoid a penalty of ₹1,200 and a CIBIL impact."
+spam,Your Amazon account has been locked due to a billing issue. Click here to update your payment method within 24 hours.
+spam,Your recent order could not be shipped because of a payment problem. Confirm your card details and OTP at the link to ship your order today.
