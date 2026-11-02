@@ -1,0 +1,53 @@
+label,message
+ham,Payment receipt. We have received your payment for the order. The invoice and transaction reference are available in your account history.
+ham,Your monthly credit card statement is available. Review the balance and minimum amount due in your banking application.
+ham,Invoice attached for services delivered last month. Please arrange payment by the agreed due date using our existing bank details.
+ham,Refund confirmation. The refund was issued to the original payment method. Allow five business days for the credit to appear.
+ham,Your subscription renewal payment was successful. Your plan remains active and the receipt is attached for your records.
+ham,Payment failed because the card expired. Open the application directly to review your billing settings and retry the transaction.
+ham,The transfer to your beneficiary has completed. The transaction reference and debit amount appear in your bank statement.
+ham,Order confirmation. We received the purchase request and payment. Delivery tracking will be available once your order ships.
+ham,Tuition fee receipt. The college accounts office confirms receipt of your semester fees. Retain this payment reference for future correspondence.
+ham,Salary credited. Your monthly salary has been deposited into your account. The payslip contains the tax deductions and net payment.
+ham,Reimbursement approved. Your travel expense claim will be included in the next payroll payment. Please retain the original receipts.
+ham,Tax payment acknowledgement. Your payment has been recorded against the assessment reference. Download the receipt from the official portal.
+ham,Your insurance premium payment was received. The renewed policy document is attached. Please check the coverage dates and payment amount.
+ham,Electricity bill for this month is ready. The statement shows usage and the amount due. Pay using your usual billing application.
+ham,Rent receipt for October. Thank you for the bank transfer. This receipt confirms the amount received and the rental period.
+ham,The invoice remains unpaid in our records. If you have already paid please share the transaction reference so our accounts team can reconcile it.
+ham,The bank rejected your transaction. No funds were debited. You can check the status in your banking application before trying again.
+ham,Your recurring payment has been cancelled at your request. No further subscription charges will be collected after the current period.
+ham,We corrected the invoice amount after applying your credit note. Please use the revised invoice for your accounts records.
+ham,Your credit card payment is due next week. The statement includes the total outstanding balance and payment options.
+ham,Purchase receipt from the bookstore. The payment was processed successfully and your books will be ready for collection tomorrow.
+ham,Payment acknowledgement for registration. Your conference booking is confirmed. The receipt includes the registration fee and applicable taxes.
+ham,Your refund is pending bank processing. We have completed our part of the transaction and no further action is required from you.
+ham,The finance team has scheduled payment of the supplier invoice. The transfer will use the verified beneficiary details already on file.
+ham,Please confirm the invoice number for the payment received yesterday. The transfer description did not include a purchase order reference.
+ham,Your account statement includes purchases refunds and payments for the billing period. Review the entries and report any discrepancies through the bank application.
+ham,We have received your donation. This receipt records the contribution amount and transaction date for your personal records.
+ham,Your application fee was received by the admissions office. The payment confirmation does not change the status of your admission decision.
+ham,Payment reminder for the maintenance invoice. The amount and due date are unchanged from the invoice previously sent to your accounts team.
+ham,This is a receipt for your online grocery purchase. Your card was charged the final order total after unavailable items were removed.
+ham,Your booking deposit has been received. The remaining balance is due before arrival according to the reservation terms.
+ham,The duplicate card charge was reversed. The adjustment may take several business days to appear on your statement.
+ham,We acknowledge payment of your hospital invoice. The detailed bill and receipt are attached for insurance reimbursement purposes.
+ham,Your mobile bill was paid successfully. The transaction amount and reference number are shown in your payment history.
+ham,The loan instalment payment has been posted to your account. The updated statement shows the principal interest and remaining balance.
+ham,The purchase order was approved. Please submit your invoice through the vendor portal for payment under the agreed contract terms.
+ham,Your payment is under review by the bank. Please check the transaction status in the official banking application before initiating another transfer.
+ham,Your card statement has a new purchase entry. If you do not recognise the transaction contact the bank using the number on your card.
+ham,Your bank account received a credit transfer. Please refer to the account statement for the sender reference and value date.
+ham,We received a partial payment against your invoice. The remaining amount will stay outstanding until the next scheduled transfer.
+spam,You have won the international lottery. Send a processing payment immediately to release your guaranteed cash prize.
+spam,Your inheritance transfer is waiting. Pay the clearance fee to our agent before the bank can release millions into your account.
+spam,Guaranteed investment returns every day. Deposit money now and double your payment overnight with absolutely no risk.
+spam,Your account will be permanently blocked in one hour. Reply with your card number security code and banking password to cancel the payment.
+spam,Receive a huge refund today. Enter your bank password and one time verification code on our form so we can credit the money.
+spam,Buy gift cards and email the codes now to pay an urgent invoice. Keep this confidential and do not contact the finance office.
+spam,Final prize notification. Send a small payment to claim your free reward and receive a million dollars immediately.
+spam,We selected your bank account for a secret cash transfer. Pay the activation fee now to unlock the funds.
+spam,An unclaimed estate belongs to you. Transfer the legal processing fee to this new beneficiary account and keep the transaction secret.
+spam,Your card refund expires today. Send your PIN password and verification code to our payment agent immediately.
+spam,Make a cryptocurrency deposit now for guaranteed daily profits. Limited places remain and every investor receives huge cash returns.
+spam,You are the lucky winner of a free holiday. Pay a refundable insurance fee immediately to claim your exclusive prize.

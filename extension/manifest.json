@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "BayesMail Inspector",
+  "version": "1.1.0",
+  "description": "Analyse the opened Gmail message or selected webpage text with your local Bayes classifier.",
+  "minimum_chrome_version": "116",
+  "permissions": ["activeTab", "scripting", "sidePanel", "contextMenus", "storage"],
+  "host_permissions": ["https://mail.google.com/*", "http://127.0.0.1/*"],
+  "background": {"service_worker": "background.js"},
+  "action": {"default_title": "Open BayesMail Inspector"},
+  "side_panel": {"default_path": "panel.html"}
+}
